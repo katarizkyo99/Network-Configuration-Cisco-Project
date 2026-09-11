@@ -7,7 +7,7 @@ implemented using Cisco Packet Tracer.
 
 ## Network Topology
 
-![Network Topology](./topology/network-topology.png)
+![Network Topology](./Topology/network-topology.png)
 
 ## Key Configurations
 
